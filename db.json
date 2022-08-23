@@ -11,6 +11,18 @@
       "email": "tsunode@kenzie.com.br",
       "password": "$2a$10$QXQVPw7XhD2RA2DUTBgy.ugte2Dlb4LHMd58rl.prAd4axbbJ5LHC",
       "id": 2
+    },
+    {
+      "email": "na@kenzie.com.br",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "na@kenzie.com",
+      "password": "$2a$10$0MHp04Ys4tiqPZRFmFPoWuNBOJVFsZ/l3x0dFLNlqON2./1ZUe9bC",
+      "name": "Nat",
+      "age": 25,
+      "id": 4
     }
   ],
   "cities": [
